@@ -1,0 +1,14 @@
+---
+author: dmisa		
+title: Google Maps
+image_url: /images/gmaps.jpg
+caption: 'Το Google Maps είναι μια υπηρεσία χαρτογράφησης και πλοήγησης που αναπτύχθηκε από την Google. Διαθέτει δορυφορικές εικόνες, αεροφωτογραφίες, χάρτες δρόμων, διαδραστική πανοραμική θέα σε δρόμους 360 ° (Street View), συνθήκες κυκλοφορίας σε πραγματικό χρόνο και σχεδιασμό διαδρομών με τα πόδια, το αυτοκίνητο, το ποδήλατο και τον αέρα (σε beta στάδιο).'
+license_url: 'https://unsplash.com/photos/N6e9cnOMXEk'
+license_text: Photo by NESA by Makers on Unsplash
+categories:
+ - maps
+tags:
+ - google
+ - gps service
+ - navigation
+---
